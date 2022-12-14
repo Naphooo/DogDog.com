@@ -1,0 +1,45 @@
+header {
+    background-color: rgb(221, 163, 92);
+    height: 75px;
+    padding: 10px;
+
+    display: flex;
+    align-items: center;
+    /* 縦並びって意味 */
+    flex-direction: column;
+
+
+
+}
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    margin: 0px;
+   
+}
+
+p {
+    margin: 0px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+img {
+    width: 100%;
+}
+
+.g-title {
+
+    font-size: 22px;
+    font-family: 'Klee One', cursive;
+}
+
+.dog-name {
+    font-size: 18px;
+}
+
